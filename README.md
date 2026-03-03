@@ -97,7 +97,7 @@ I design and build **intelligent robotic systems** — from low-level actuator c
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Christy-roy-tech&repo=your-repo-1&theme=github_dark&hide_border=true&title_color=C9A84C&icon_color=C9A84C)](https://github.com/Christy-roy-tech/your-repo-1)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Christy-roy-tech&repo=your-repo-1&theme=github_dark&hide_border=true&title_color=C9A84C&icon_color=C9A84C)](https://github.com/Christy-Roy-tech/Adaptive-Vibration-Control-in-a-Flexible-Robotic-Arm)
 &nbsp;
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Christy-roy-tech&repo=your-repo-2&theme=github_dark&hide_border=true&title_color=C9A84C&icon_color=C9A84C)](https://github.com/Christy-roy-tech/your-repo-2)
 
