@@ -2,13 +2,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=120&section=header&animation=fadeIn" width="100%"/>
 </div>
 <div align="center">
-```
+
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
 ║            R O B O T I C S   R & D   E N G I N E E R      ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
-```
+
 </div>
 <div align="center">
 @Christy-roy-tech
