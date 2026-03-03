@@ -5,13 +5,13 @@
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
-║            R O B O T I C S   R & D   E N G I N E E R     ║
+║            R O B O T I C S   R & D   E N G I N E E R      ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 </div>
 <div align="center">
-@YourUsername
+@Christy-roy-tech
 <br/>
 Bridging the boundary between computation and the physical world.
 <br/>
