@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Christy-roy-tech/Christy-roy-tech/raw/main/banner.png" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=120&section=header&animation=fadeIn" width="100%" alt="banner" />
 
 ---
 
